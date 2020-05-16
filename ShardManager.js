@@ -10,7 +10,7 @@ const manager = new ShardingManager('./app.js', {
     totalShards: 2, 
 
     // your bot token
-    token: 'Njk5MDA5NTA5MDQ1MzA1Mzc0.Xred8Q.sG1amshjRJGZehDqVWGnx-keQLk'
+    token: ''
 });
 
 // Spawn your shards
