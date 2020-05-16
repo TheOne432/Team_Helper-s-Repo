@@ -177,4 +177,4 @@ if (message.content.startsWith(prefix+"warn")) {
 }
 });
 
-   client.login("Njk5MDA5NTA5MDQ1MzA1Mzc0.Xred8Q.sG1amshjRJGZehDqVWGnx-keQLk");
+   client.login("");
