@@ -1,1 +1,1 @@
-https://camo.githubusercontent.com/211f6bab112044cbef8063c730f7df28bbf54776/68747470733a2f2f636f6465636c696d6174652e636f6d2f6769746875622f6477796c2f657374612f6261646765732f6770612e737667
+CodeClimate - Code Climate - is the code quality score for a project measured on a number of factors including Complexity/Simplicity, Readability, Maintainability, Repetition and Line-count-per-file . The maximum score is 4.0 and we obviously strive to achieve this level in all our work. https://github.com/dwyl/learn-codeclimate
