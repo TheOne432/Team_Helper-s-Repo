@@ -1,1 +1,1 @@
-CodeClimate - Code Climate - is the code quality score for a project measured on a number of factors including Complexity/Simplicity, Readability, Maintainability, Repetition and Line-count-per-file . The maximum score is 4.0 and we obviously strive to achieve this level in all our work. https://github.com/dwyl/learn-codeclimate
+[![Code Climate](https://codeclimate.com/github/dwyl/esta/badges/gpa.svg)](https://codeclimate.com/github/dwyl/esta) 
